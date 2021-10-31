@@ -33,22 +33,16 @@ comments : True
 
 <br/>
 
-js 코드 쓰고 싶으면 어떡해??
-
-{% highlight html %}
-let a = 1;
-const b = 2;
-
-for(let i=0; i<a; i++){
-  console.log(i);
-}
-{% endhighlight %}
-
-이건 좀 아니잖아 ㅋㅋㅋㅋ
-
-
-<br/>
-
-
 코드펜 가져오기
 {% include codepen.html hash="OJjxmVg" title="이력서" %}
+
+<br/>
+syntax highlight 확인중...
+
+```javascript
+let a;
+const b = 3;
+for(let i = 0; i < b; i++){
+  console.log(i);
+}
+```

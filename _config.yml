@@ -53,5 +53,11 @@ bootstrap:
   assets: true
 
 
-  # Codepen embed
-  codepen_username: ashyeon
+# Codepen embed
+codepen_username: ashyeon
+
+# Rouge theme(syntax highlighter)
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
