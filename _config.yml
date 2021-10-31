@@ -51,3 +51,7 @@ sass:
 plugins: [jekyll-paginate]
 bootstrap:
   assets: true
+
+
+  # Codepen embed
+  codepen_username: ashyeon

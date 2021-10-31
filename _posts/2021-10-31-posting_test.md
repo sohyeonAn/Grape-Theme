@@ -45,3 +45,10 @@ for(let i=0; i<a; i++){
 {% endhighlight %}
 
 이건 좀 아니잖아 ㅋㅋㅋㅋ
+
+
+<br/>
+
+
+코드펜 가져오기
+{% include codepen.html hash="OJjxmVg" title="이력서" %}
