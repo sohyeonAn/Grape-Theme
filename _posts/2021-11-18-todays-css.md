@@ -1,17 +1,20 @@
 ---
 layout: post
-title: [오늘의 CSS] background-image 몰랐던 사실.
-subtitle : 오늘의 CSS는 background-image와 관련된 속성 중 background-repeat의 숨겨진 기능이다!  
+title: "[오늘의 CSS] background-repeat 몰랐던 사실."
+subtitle : 오늘의 CSS는 background-image와 관련된 속성 중 background-repeat의 몰랐던 기능을 알아본다.  
 tags: [오늘의 CSS]
 author: Sohyeon An
 comments : True
 ---
 
-오늘의 CSS는 background-image와 관련된 속성 중 background-repeat의 숨겨진 기능이다. 
+오늘의 CSS는 background-image와 관련된 속성 중 background-repeat의 몰랐던 기능을 알아보겠다.  
 출처는 바로 [여기](https://www.youtube.com/watch?v=IkVDgvnjCHo) 또는 아래 이미지를 클릭하면 영상을 시청 할 수 있다.
 
 [![A CSS value you probably never knew about](https://www.youtube.com/watch?v=IkVDgvnjCHo/0.jpg)](https://www.youtube.com/watch?v=IkVDgvnjCHo)
 
+[codepen 출처](https://codepen.io/kevinpowell/pen/oNgZPVK)
+
+---
 
 {% include codepen.html hash="yLoZvPP" title="background-repeat" %}
 
@@ -26,6 +29,6 @@ comments : True
 
 <br>
 
-출처는 역시 MDN~
-> https://developer.mozilla.org/ko/docs/Web/CSS/background-repeat
+더 자세한 내용은 [MDN](https://developer.mozilla.org/ko/docs/Web/CSS/background-repeat)에서 확인할 수 있다.
+
 ---
