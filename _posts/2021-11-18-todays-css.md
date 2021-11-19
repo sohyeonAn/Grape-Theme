@@ -12,15 +12,20 @@ comments : True
 
 [![A CSS value you probably never knew about](https://www.youtube.com/watch?v=IkVDgvnjCHo/0.jpg)](https://www.youtube.com/watch?v=IkVDgvnjCHo)
 
-[codepen 출처](https://codepen.io/kevinpowell/pen/oNgZPVK)
+<br>
+
+그럼 이제부터 아래 코드를 보자! `background-repeat` 속성에 따라 image가 어떻게 변하는 지 살펴보길 바란다.
 
 ---
 
 {% include codepen.html hash="yLoZvPP" title="background-repeat" %}
 
+
+<br>
 <br>
 
 ---
+
 ✔ 사실 `background-repeat`는 **shorthand** 였다는 사실!!!! 한 개 값 구문만 지정하면 두 개 값 구문의 단축 형태가 된다. 즉, `background-repeat: <repeat-x>, <repeat-y>`로 x축과 y축에 각각 다른 반복 방법을 적용할 수 있다.
 
 
